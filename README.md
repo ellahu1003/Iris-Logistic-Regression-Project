@@ -17,7 +17,7 @@ The dataset used for this project is `iris.csv`, which contains measurements of 
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/iris-logistic-regression.git
+    git clone https://github.com/ellahu1003/iris-logistic-regression.git
     cd iris-logistic-regression
     ```
 2. Install the required packages:
