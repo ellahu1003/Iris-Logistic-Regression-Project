@@ -43,6 +43,10 @@ iris_logistic_regression/
 │   
 └── requirements.txt
  ```
+
+## Requirements
+The 'Requirements.txt' file lists all the Python packages required to run the project. Install these dependencies to avoid any compatibility issues.
+
 ## Results
 1) Accuracy: 1.0
 2) Precision: 1.0
