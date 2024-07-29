@@ -22,7 +22,7 @@ The dataset used for this project is `iris.csv`, which contains measurements of 
     ```
 2. Install the required packages:
     ```bash
-    pip install -r requirements.txt
+    pip install -r Requirements.txt
     ```
 3. Run the Jupyter Notebook:
     ```bash
